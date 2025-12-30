@@ -145,11 +145,7 @@ Sandeep
 Computer Science & Technology
 Ulster University
 
-⭐ Portfolio Note
 
-This project is designed as a visual and educational reinforcement learning demonstration, suitable for:
-
-Academic coursework
 
 Machine learning portfolios
 
